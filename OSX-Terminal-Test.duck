@@ -1,0 +1,11 @@
+CustomDelay:2000
+Press:131+32
+CustomDelay:500
+Print:terminal
+CustomDelay:500
+Press:176
+CustomDelay:1000
+Print:ls
+CustomDelay:200
+Press:176
+CustomDelay:1000
